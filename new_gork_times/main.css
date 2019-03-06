@@ -1,0 +1,134 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+
+#header{
+  font-family: 'Open Sans', sans-serif;
+  position: relative;
+  max-width: 100%;
+
+
+}
+h1{
+  position: relative;
+  left: 25%;
+  text-align: center;
+  max-width: 50%;
+  font-size: 4em;
+  font-family: 'UnifrakturCook', cursive;
+}
+
+#todays_date{
+  position: relative;
+  left: 43%;
+
+}
+
+#wrapper_left{
+  float: left;
+  max-width: 60%;
+
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+
+}
+
+#wrapper_right{
+  float: right;
+  max-width: 40%;
+
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+
+}
+
+#headliner_1{
+  border-style: solid;
+  border-radius: 0.1px;
+  border-color: #e5e5e5;
+  max-width: 100%;
+
+}
+
+#trumpy{
+  max-width: 100%;
+}
+
+#headliner_2{
+  padding: 1%;
+  border-style: solid;
+  border-color: #e5e5e5;
+    border-radius: 0.1px;
+  max-width: 100%;
+}
+
+#mystery_mud{
+  max-width: 100%;
+}
+
+#headliner_3{
+  padding: 1%;
+  border-style: solid;
+  border-color: #e5e5e5;
+    border-radius: 0.1px;
+  max-width: 100%;
+}
+
+#big_oil{
+  max-width: 100%;
+}
+
+#headliner_4{
+  padding: 1%;
+  border-style: solid;
+  border-color: #e5e5e5;
+    border-radius: 0.1px;
+  max-width: 100%;
+}
+
+#california_crash{
+  max-width: 100%;
+}
+
+#headliner_5{
+  padding: 1%;
+  border-style: solid;
+  border-color: #e5e5e5;
+    border-radius: 0.1px;
+  max-width: 100%;
+}
+
+#superbowl{
+  max-width: 100%;
+}
+
+#headliner_6{
+  padding: 1%;
+  border-style: solid;
+  border-color: #e5e5e5;
+    border-radius: 0.1px;
+  max-width: 100%;
+}
+
+#white_house{
+  max-width: 100%;
+}
+
+#headliner_7{
+  padding: 1%;
+  border-style: solid;
+  border-color: #e5e5e5;
+    border-radius: 0.1px;
+  max-width: 100%;
+}
+
+#lunar_new_year{
+  max-width: 100%;
+}
+#lizard{
+  border: none;
+  left: -100px;
+}
